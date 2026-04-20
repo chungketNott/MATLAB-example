@@ -4,3 +4,6 @@
 %hjfjfjjf
 sin(x)
 
+x=3;
+y=8;
+
