@@ -8,3 +8,12 @@ v = 5 + 3 * sin(100 * pi * t);
 %hfhhf
 %ghjhfjdf
 %kjgldsf
+%jhfgkjhgfk
+%udgfusgdf
+%jhsjkshg
+%jkhsgkdfhg
+%khsgkdfhg%
+
+
+
+%gfggf
